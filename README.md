@@ -70,3 +70,11 @@ Open http://localhost:3000 in your browser to view the app.
 - Implement **user authentication** to manage personal links
 - Include **analytics charts** for click trends
 
+---
+
+## Author
+
+**Himanshu Upadhyay**  
+- GitHub:   https://github.com/ihimanshu17
+- Portfolio: https://portfolio-main-git-main-ihimanshu17s-projects.vercel.app/
+
